@@ -36,6 +36,7 @@
       border: 2px solid #e0e6f2;
       background: #ddd;
     }
+///border : 2px solid;
     h1 { margin: 0; font-size: 1.6rem; }
     p.lead { margin: 6px 0 12px; color: #444; }
     nav { margin: 14px 0; }
