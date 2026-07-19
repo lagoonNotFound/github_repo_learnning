@@ -12,6 +12,7 @@
       color-scheme: light;
     }
     body {
+      max-width:940
       max-width: 920px;
       margin: 36px auto;
       padding: 24px;
